@@ -19,4 +19,4 @@
 
 ## GIF
 
-<img src="/screen.gif" />
+<img src="./public/screen.gif" />
